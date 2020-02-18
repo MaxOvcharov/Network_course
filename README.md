@@ -1,5 +1,5 @@
 # Network_cource
-Курс по "Компьютерным сетям"
+Курс по ["Компьютерным сетям"](https://www.asozykin.ru/courses/networks_online) от Андрея Созыкина
 
 ### Базовая часть:
 
