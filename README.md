@@ -13,3 +13,9 @@
 ### Физический уровень:
 
 1. [Лекция "Физический уровень"](/Physical_level/1_Physical_level.md)
+
+### Канальный уровень:
+
+1. [Лекция "Канальный уровень"](/Physical_level/1_Channel_level.md)
+2. [Лекция "Технология Ethernet"](/Physical_level/2_Ethernet.md)
+3. [Лекция "MAC Адреса"](/Physical_level/3_MAC_address.md)
