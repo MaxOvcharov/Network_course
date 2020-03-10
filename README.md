@@ -19,3 +19,5 @@
 1. [Лекция "Канальный уровень"](/Physical_level/1_Channel_level.md)
 2. [Лекция "Технология Ethernet"](/Physical_level/2_Ethernet.md)
 3. [Лекция "MAC Адреса"](/Physical_level/3_MAC_address.md)
+4. [Лекция "MAC Адреса"](/Physical_level/4_Ethernet_CSMA_CD.md)
+5. [Лекция "MAC Адреса"](/Physical_level/5_Ethernet_Switch.md)
