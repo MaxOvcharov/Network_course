@@ -21,3 +21,5 @@
 3. [Лекция "MAC Адреса"](/Physical_level/3_MAC_address.md)
 4. [Лекция "MAC Адреса"](/Physical_level/4_Ethernet_CSMA_CD.md)
 5. [Лекция "MAC Адреса"](/Physical_level/5_Ethernet_Switch.md)
+6. [Лекция "VLAN"](/Physical_level/6_VLAN.md)
+7. [Лекция "STP"](/Physical_level/7_STP.md)
