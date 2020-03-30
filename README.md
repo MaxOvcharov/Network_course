@@ -16,10 +16,12 @@
 
 ### Канальный уровень:
 
-1. [Лекция "Канальный уровень"](/Physical_level/1_Channel_level.md)
-2. [Лекция "Технология Ethernet"](/Physical_level/2_Ethernet.md)
-3. [Лекция "MAC Адреса"](/Physical_level/3_MAC_address.md)
-4. [Лекция "MAC Адреса"](/Physical_level/4_Ethernet_CSMA_CD.md)
-5. [Лекция "MAC Адреса"](/Physical_level/5_Ethernet_Switch.md)
-6. [Лекция "VLAN"](/Physical_level/6_VLAN.md)
-7. [Лекция "STP"](/Physical_level/7_STP.md)
+1. [Лекция "Канальный уровень"](/Channel_level/1_Channel_level.md)
+2. [Лекция "Технология Ethernet"](/Channel_level/2_Ethernet.md)
+3. [Лекция "MAC Адреса"](/Channel_level/3_MAC_address.md)
+4. [Лекция "MAC Адреса"](/Channel_level/4_Ethernet_CSMA_CD.md)
+5. [Лекция "MAC Адреса"](/Channel_level/5_Ethernet_Switch.md)
+6. [Лекция "VLAN"](/Channel_level/6_VLAN.md)
+7. [Лекция "STP"](/Channel_level/7_STP.md)
+8. [Лекция "Wi-Fi"](/Channel_level/8_WI_FI.md)
+9. [Лекция "Wi-Fi. Метод доступа к разделяемой среде CSMA/CA"](/Channel_level/9_WI_FI_CSMA_CA.md)
