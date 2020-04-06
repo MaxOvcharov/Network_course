@@ -25,3 +25,5 @@
 7. [Лекция "STP"](/Channel_level/7_STP.md)
 8. [Лекция "Wi-Fi"](/Channel_level/8_WI_FI.md)
 9. [Лекция "Wi-Fi. Метод доступа к разделяемой среде CSMA/CA"](/Channel_level/9_WI_FI_CSMA_CA.md)
+10. [Лекция "Wi-Fi. Формат кадра"](/Channel_level/10_WI_FI_DATA_FRAME.md)
+11. [Лекция "Сервисы Wi-Fi"](/Channel_level/11_WI_FI_SERVICES.md)
