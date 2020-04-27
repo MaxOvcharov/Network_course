@@ -34,3 +34,5 @@
 2. [Лекция "IP-адреса, часть 1"](/Network_level/2_IP_address_part_1.md)
 3. [Лекция "IP-адреса, часть 2"](/Network_level/3_IP_address_part_2.md)
 4. [Лекция "Протокол IP"](/Network_level/4_IP_protocol.md)
+5. [Лекция "Протокол IP"](/Network_level/5_IP_protocol_routing.md)
+6. [Лекция "Протокол IP"](/Network_level/6_IP_protocol_fragments.md)
