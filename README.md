@@ -36,3 +36,5 @@
 4. [Лекция "Протокол IP"](/Network_level/4_IP_protocol.md)
 5. [Лекция "Протокол IP"](/Network_level/5_IP_protocol_routing.md)
 6. [Лекция "Протокол IP"](/Network_level/6_IP_protocol_fragments.md)
+7. [Лекция "Управляющие протоколы сетевого уровня"](/Network_level/7_Network_level_manage_protocols.md)
+8. [Лекция "Протокол DHCP"](/Network_level/8_DHCP_protocol.md)
